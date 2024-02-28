@@ -1,0 +1,38 @@
+.education-skilss{
+    background-image: url('/Pictures/pic11.jpeg'); 
+    display: grid;
+    column-gap: 45px;
+    text-align: center;
+    grid-template-columns:1fr 1fr;
+    height: auto;
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    background: #fff;
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+.education-background-section,
+.education-skills-section{
+color:black;
+text-align: justify;
+}
+.software-skills.interpersonal-skills,
+.software-skills,
+.interpersonal-skills,
+.other-skills{
+    margin-left: 40px;
+    font-size: 16px;
+}
+.education-background-section h1,
+.education-skills-section h1{
+font-size: 24px;
+}
+.education-background-section h2,
+.education-skills-section h2{
+font-size: 18px;
+}
+.education-background-section p{
+font-size: 16px;
+}
